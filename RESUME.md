@@ -1,5 +1,5 @@
 # Luong Duy Phuong
-**Email:** phuonglqd@fpt.com.vn · +84 969 390 613  
+**Email:** phuonglqd@fpt.com · +84 969 390 613  
 **Current Address:** 51 Street 12, Park Riverside, Ho Chi Minh City, Vietnam  
 **Date of Birth:** 22/06/1987  
 ---
