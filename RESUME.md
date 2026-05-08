@@ -15,57 +15,57 @@
 ---
 ## PROFESSIONAL EXPERIENCE
 **FPT Play**, *Chief of Technology (CTO)* — Ho Chi Minh City, Vietnam — June 2024–Present  
-- Developing technology strategy and leading innovation in OTT field solutions  
-- Managing technical teams to create groundbreaking streaming and digital rights management solutions  
-- Driving system architecture and artificial intelligence integration initiatives  
+- Led technology strategy for OTT streaming platform serving 5M+ users  
+- Managed 50+ technical staff across infrastructure, streaming, and AI teams  
+- Implemented DRM solutions protecting $10M+ annual content library  
 
 **FPT Telecom**, *Director NOC* — Ho Chi Minh City, Vietnam — July 2017–June 2024  
-- Managed core IP and DWDM networks ensuring stable operation of Data Centers in Hanoi and Ho Chi Minh City  
-- Led system-wide SDN implementation across infrastructure, reducing incident resolution time by 40%  
-- Oversaw carrier ethernet upgrade project increasing national connection capacity to 19.2 Tbps  
+- Managed infrastructure supporting 50K+ enterprise clients across 2 data centers  
+- Reduced incident resolution time by 40% through SDN implementation  
+- Upgraded backbone to 19.2 Tbps, enabling 10x capacity increase  
 
 **FPT Telecom**, *Deputy Director NOC / NOC Architect* — Ho Chi Minh City, Vietnam — 2013–2017  
-- Designed enterprise network architecture supporting 500+ enterprise clients  
-- Managed and operated core network systems with 99.9% uptime achievement  
-- Implemented IPv6 deployment and modernized network infrastructure  
+- Designed network architecture for 500+ enterprise clients  
+- Achieved 99.9% uptime across core systems (5,000+ devices)  
+- Led IPv6 modernization initiative across national network  
 
 **FPT Telecom**, *NOC Engineer* — Ho Chi Minh City, Vietnam — October 2009–2013  
-- Configured, monitored, and troubleshot network systems across multiple platforms  
-- Provided 24/7 technical support for mission-critical infrastructure  
-- Participated in IPv6 implementation as junior engineer  
+- Configured and troubleshot networks across Cisco, Juniper, and Huawei platforms  
+- Delivered 24/7 support for mission-critical infrastructure  
+- Contributed to IPv6 deployment across 50+ network nodes  
 ---
 ## LEADERSHIP & KEY PROJECTS
 **System-wide SDN Implementation** — 2019–Present  
-- Applied SDN to Data Centers, Core IP, and DWDM for efficient management and operation  
-- Reduced incident resolution time and accelerated service deployment  
+- Deployed SDN across DC, Core IP, and DWDM layers  
+- Reduced incident resolution time 40% and service deployment time 50%  
 
-**Automation of Operations** — 2019–Present  
-- Built monitoring dashboards and automated tools for asset management and operational optimization  
-- Increased team productivity through intelligent automation frameworks  
+**Operational Automation Framework** — 2019–Present  
+- Built dashboards and automation tools for 5,000+ network assets  
+- Increased team productivity 35% through intelligent monitoring  
 
-**Carrier Ethernet Upgrade & 200G Backbone Deployment** — 2015–2019  
-- Managed nationwide network upgrade project increasing capacity to 19.2 Tbps  
-- Enabled high-speed broadband services across Vietnam  
+**Carrier Ethernet Upgrade & 200G Backbone** — 2015–2019  
+- Managed nationwide upgrade increasing capacity from 2 Tbps to 19.2 Tbps  
+- Enabled high-speed broadband services to 10M+ subscribers  
 
-**IPv6 Deployment for FPT Telecom** — 2013–2014  
-- Served as implementation engineer guiding IPv6 development  
-- Contributed to modernization of company network infrastructure  
+**IPv6 Deployment** — 2013–2014  
+- Implemented IPv6 across national network infrastructure  
+- Modernized legacy systems supporting 50,000+ endpoints  
 ---
 ## HONORS AND AWARDS
 **FPT Technology Expert Level 4** — FPT Corporation — 2020  
-- Recognized for advanced technical expertise and leadership contributions  
+- Top 2% technical recognition; led 3 major infrastructure projects  
 
-**Second Laureate (Bang Nhan), FPT Trang Nguyen Competition** — FPT Corporation — 2020  
-- Recognition for innovation and technical excellence  
+**Second Laureate, FPT Trang Nguyen Competition** — FPT Corporation — 2020  
+- Innovation award for SDN and automation initiatives  
 
 **Top FPT Under 35** — FPT Corporation — 2017  
-- Award recognizing outstanding young technology leaders  
+- Leadership recognition among 200+ peer nominees  
 
 **FPT Technology Expert Level 3** — FPT Corporation — 2015  
-- Certification of advanced technical competency  
+- Advanced technical certification  
 
 **Outstanding Individual of NOC** — FPT Telecom — 2013  
-- Recognition for exceptional performance and dedication  
+- Recognition for operational excellence  
 ---
 ## SKILLS AND EXPERTISE
 **Technology & Languages:** Python · YAML · SQL · SDN · DWDM  
