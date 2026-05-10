@@ -1,4 +1,4 @@
-# Corporate Finance
+# BUS 629 VEMBA Corporate Finance
 A comprehensive repository for financial modeling, valuation analysis, and strategic financial planning. This project develops and demonstrates enterprise-grade financial models, conducts rigorous analysis of investment opportunities, and delivers actionable insights for corporate decision-making.
 
 ---
