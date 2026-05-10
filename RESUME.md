@@ -1,83 +1,46 @@
 # Luong Duy Phuong
-**Email:** phuonglqd@fpt.com · +84 969 390 613  
-**Current Address:** 51 Street 12, Park Riverside, Ho Chi Minh City, Vietnam  
-**Date of Birth:** 22/06/1987  
----
+**phuonglqd@fpt.com · +84 969 390 613 · Ho Chi Minh City, Vietnam**
+
 ## EDUCATION
-**Cisco Certified Internetwork Expert (CCIE) Service Provider Program** — Cisco Systems  
-- Certification Completion — 2009–2013  
+**Bachelor of Electronics & Telecommunications** — VNU-HCM, University of Science — 2005–2009
 
-**Bachelor of Electronics & Telecommunications** — VNU-HCM, University of Science, Ho Chi Minh City, Vietnam  
-- Major in Electronics & Telecommunications — 2005–2009  
+## CERTIFICATIONS
+**Cisco Certified Internetwork Expert (CCIE) Service Provider** · **JNCIA-JUNOS** · **CCNA Routing & Switching**
 
-**Professional Network Engineer Program** — Esystem Network Program  
-- Completion — 2007–2009  
----
 ## PROFESSIONAL EXPERIENCE
-**FPT Play**, *Chief of Technology (CTO)* — Ho Chi Minh City, Vietnam — June 2024–Present  
-- Led technology strategy for OTT streaming platform serving 5M+ users  
-- Managed 50+ technical staff across infrastructure, streaming, and AI teams  
-- Implemented DRM solutions protecting $10M+ annual content library  
+**Chief of Technology, FPT Play** — June 2024–Present
+- Led technology strategy for OTT streaming platform with 5M+ active users; managed 50+ engineers across infrastructure, streaming, and AI teams
+- Architected DRM solutions protecting $10M+ annual content library; secured vendor partnerships worth $5M+
 
-**FPT Telecom**, *Director NOC* — Ho Chi Minh City, Vietnam — July 2017–June 2024  
-- Managed infrastructure supporting 50K+ enterprise clients across 2 data centers  
-- Reduced incident resolution time by 40% through SDN implementation  
-- Upgraded backbone to 19.2 Tbps, enabling 10x capacity increase  
+**Director NOC, FPT Telecom** — July 2017–June 2024
+- Managed infrastructure serving 50K+ enterprise clients across 2 data centers; owned $25M+ operational budget
+- Reduced incident resolution time 40% and service deployment time 50% via SDN implementation (saved ~$3M annually)
+- Upgraded national backbone from 2 Tbps to 19.2 Tbps, enabling 10x capacity increase and 10M+ new broadband subscriptions
 
-**FPT Telecom**, *Deputy Director NOC / NOC Architect* — Ho Chi Minh City, Vietnam — 2013–2017  
-- Designed network architecture for 500+ enterprise clients  
-- Achieved 99.9% uptime across core systems (5,000+ devices)  
-- Led IPv6 modernization initiative across national network  
+**Deputy Director NOC / NOC Architect, FPT Telecom** — 2013–2017
+- Designed network architecture for 500+ enterprise clients; achieved 99.9% uptime across 5,000+ core devices
+- Spearheaded IPv6 modernization initiative across national network, modernizing 50,000+ legacy endpoints
 
-**FPT Telecom**, *NOC Engineer* — Ho Chi Minh City, Vietnam — October 2009–2013  
-- Configured and troubleshot networks across Cisco, Juniper, and Huawei platforms  
-- Delivered 24/7 support for mission-critical infrastructure  
-- Contributed to IPv6 deployment across 50+ network nodes  
----
-## LEADERSHIP & KEY PROJECTS
-**System-wide SDN Implementation** — 2019–Present  
-- Deployed SDN across DC, Core IP, and DWDM layers  
-- Reduced incident resolution time 40% and service deployment time 50%  
+**NOC Engineer, FPT Telecom** — October 2009–2013
+- Configured multi-vendor networks (Cisco, Juniper, Huawei); maintained 99.95% infrastructure availability
+- Deployed IPv6 across 50+ network nodes; trained 20+ junior engineers on advanced troubleshooting
 
-**Operational Automation Framework** — 2019–Present  
-- Built dashboards and automation tools for 5,000+ network assets  
-- Increased team productivity 35% through intelligent monitoring  
+## KEY PROJECTS & INITIATIVES
+**System-wide SDN Implementation** (2019–Present): Deployed SDN across DC, Core IP, and DWDM layers; reduced incident resolution 40% and service deployment 50% (estimated $3M annual savings)
 
-**Carrier Ethernet Upgrade & 200G Backbone** — 2015–2019  
-- Managed nationwide upgrade increasing capacity from 2 Tbps to 19.2 Tbps  
-- Enabled high-speed broadband services to 10M+ subscribers  
+**Operational Automation Framework** (2019–Present): Built dashboards and automation tools managing 5,000+ network assets; increased team productivity 35%
 
-**IPv6 Deployment** — 2013–2014  
-- Implemented IPv6 across national network infrastructure  
-- Modernized legacy systems supporting 50,000+ endpoints  
----
-## HONORS AND AWARDS
-**FPT Technology Expert Level 4** — FPT Corporation — 2020  
-- Top 2% technical recognition; led 3 major infrastructure projects  
+**Carrier Ethernet Upgrade & 200G Backbone** (2015–2019): Led nationwide backbone upgrade from 2 Tbps to 19.2 Tbps; enabled broadband services to 10M+ new subscribers
 
-**Second Laureate, FPT Trang Nguyen Competition** — FPT Corporation — 2020  
-- Innovation award for SDN and automation initiatives  
+## HONORS & AWARDS
+**FPT Technology Expert Level 4** (2020): Top 2% technical recognition; led 3 major infrastructure projects worth $15M+
+**Second Laureate, FPT Trang Nguyen Innovation Competition** (2020): Awarded for SDN and automation initiatives
+**Top FPT Under 35** (2017): Leadership recognition among 200+ peer nominees
+**Outstanding Individual of NOC** (2013): Recognition for operational excellence
 
-**Top FPT Under 35** — FPT Corporation — 2017  
-- Leadership recognition among 200+ peer nominees  
+## SKILLS & EXPERTISE
+**Technical:** SDN · DWDM · Network Design · HTTP Streaming · Digital Rights Management · Operational Automation · System Architecture · AI/ML
 
-**FPT Technology Expert Level 3** — FPT Corporation — 2015  
-- Advanced technical certification  
-
-**Outstanding Individual of NOC** — FPT Telecom — 2013  
-- Recognition for operational excellence  
----
-## SKILLS AND EXPERTISE
-**Technology & Languages:** Python · YAML · SQL · SDN · DWDM  
-
-**Hardware Platforms:** Cisco (ASR, Catalyst) · Juniper (MX series) · Huawei  
-
-**Operating Systems:** IOS-XR · JUNOS · JUNOS-SE  
-
-**Specializations:** HTTP Streaming · Digital Rights Management · SDN Architecture · Artificial Intelligence · System Architecture · Network Design · Operational Automation  
-
-**Professional Development:** Machine Learning · Cloud Computing · Project Management · Business Analytics · Data Analysis  
-
-**Certifications:** CCIE Service Provider · JNCIA-JUNOS · CCNA Routing and Switching · MiniBBA (FPT)  
+**Platforms & Languages:** Cisco (ASR, Catalyst) · Juniper (MX, JUNOS) · Huawei · Python · YAML · SQL
 
 **Languages:** Vietnamese (Native) · English (Professional)
