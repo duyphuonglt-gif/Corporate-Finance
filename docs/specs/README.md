@@ -1,9 +1,26 @@
-# Corporate-Finance-
-# About Luong Duy Phuong
-Luong Duy Phuong is a Chief Technology Officer with 15+ years of expertise in network architecture and system design at FPT Play, specializing in HTTP streaming, digital rights management, SDN, and artificial intelligence.
+# docs/specs/
 
-Focus Areas: Phuong designs enterprise solutions across Cisco, Juniper, and Huawei platforms using Python, YAML, and DWDM technologies, translating complex infrastructure challenges into scalable business outcomes.
+Detailed specifications for financial models and processes.
 
-Achievements: He has led system-wide SDN implementation, carrier ethernet upgrades (19.2 Tbps capacity increase), and operational automation frameworks. Recognized as FPT Technology Expert Level 4 and "Top FPT Under 35" (2017).
+## Purpose
 
-Goals: Phuong is committed to advancing OTT technology innovation, building technical teams, and developing strategic initiatives that strengthen organizational competitiveness.
+Each spec describes inputs, outputs, assumptions, and calculation logic for a specific model or process. Serves as reference documentation when building or testing models.
+
+## File Structure
+
+```
+# <Model/Process Name> — Specification
+
+## Objective
+## Inputs
+## Outputs
+## Assumptions
+## Calculation Logic
+## Testing & Validation
+```
+
+## Examples
+
+- `dcf_model_spec.md` — Discounted Cash Flow (DCF) Model
+- `budget_forecast_spec.md` — Budget and Forecast Model
+- `capex_analysis_spec.md` — Capital Expenditure Analysis

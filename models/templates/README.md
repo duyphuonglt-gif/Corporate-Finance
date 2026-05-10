@@ -1,9 +1,22 @@
-# Corporate-Finance-
-# About Luong Duy Phuong
-Luong Duy Phuong is a Chief Technology Officer with 15+ years of expertise in network architecture and system design at FPT Play, specializing in HTTP streaming, digital rights management, SDN, and artificial intelligence.
+# models/templates/
 
-Focus Areas: Phuong designs enterprise solutions across Cisco, Juniper, and Huawei platforms using Python, YAML, and DWDM technologies, translating complex infrastructure challenges into scalable business outcomes.
+Standard financial model templates — no real data, for initializing new models.
 
-Achievements: He has led system-wide SDN implementation, carrier ethernet upgrades (19.2 Tbps capacity increase), and operational automation frameworks. Recognized as FPT Technology Expert Level 4 and "Top FPT Under 35" (2017).
+## Purpose
 
-Goals: Phuong is committed to advancing OTT technology innovation, building technical teams, and developing strategic initiatives that strengthen organizational competitiveness.
+Each template has predefined structure, linked formulas, and standard formatting. When starting a new project, copy the relevant template to `builds/` and fill in data.
+
+## Available Templates
+
+| File | Model Type |
+|------|-----------|
+| `dcf_template.xlsx` | Discounted Cash Flow |
+| `lbo_template.xlsx` | Leveraged Buyout |
+| `ma_template.xlsx` | M&A Accretion/Dilution |
+| `budget_template.xlsx` | Budget & Forecast |
+| `capex_template.xlsx` | CapEx Analysis |
+
+## Guidelines
+
+- Never modify templates directly. Always copy to `builds/` first.
+- Update version when template structure changes.

@@ -1,9 +1,23 @@
-# Corporate-Finance-
-# About Luong Duy Phuong
-Luong Duy Phuong is a Chief Technology Officer with 15+ years of expertise in network architecture and system design at FPT Play, specializing in HTTP streaming, digital rights management, SDN, and artificial intelligence.
+# data/
 
-Focus Areas: Phuong designs enterprise solutions across Cisco, Juniper, and Huawei platforms using Python, YAML, and DWDM technologies, translating complex infrastructure challenges into scalable business outcomes.
+Raw and processed data for financial models and analysis.
 
-Achievements: He has led system-wide SDN implementation, carrier ethernet upgrades (19.2 Tbps capacity increase), and operational automation frameworks. Recognized as FPT Technology Expert Level 4 and "Top FPT Under 35" (2017).
+## Purpose
 
-Goals: Phuong is committed to advancing OTT technology innovation, building technical teams, and developing strategic initiatives that strengthen organizational competitiveness.
+Stores raw data, processed data, and reference data used for model building.
+
+## Recommended Structure
+
+```
+data/
+  raw/          # Source data, do not modify
+  processed/    # Cleaned and standardized data
+  reference/    # Reference data: interest rates, exchange rates, benchmarks
+  external/     # Third-party data (Bloomberg, Vietstock, etc.)
+```
+
+## Notes
+
+- Do not commit sensitive data (unpublished internal figures) to repo.
+- Document data source and collection date in filename or metadata.
+- Preferred formats: `.csv`, `.xlsx`, `.json`.
