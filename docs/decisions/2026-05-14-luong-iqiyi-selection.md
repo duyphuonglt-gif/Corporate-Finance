@@ -21,7 +21,7 @@ exchange: "NASDAQ"
 
 ## 1. Company Overview
 
-iQIYI Inc (Ticker: IQ, NASDAQ ADR 1:7) is China's largest online entertainment platform (movies, dramas, anime), incorporated in the Cayman Islands. FY2025 (ended Dec 31, 2025): revenue –6.6% YoY, gross margin compressed 310 bps to 21.1%, net margin collapsed from +2.7% to –0.75%. Market cap $1.1B at $1.18/ADS (down 40.7% YTD).
+iQIYI Inc (Ticker: IQ, NASDAQ ADR 1:7) is China's largest online entertainment platform (movies, dramas, anime), incorporated in the Cayman Islands. FY2025 (ended Dec 31, 2025): revenue –6.6% YoY, gross margin compressed 380 bps to 21.1%, net margin collapsed from +2.7% to –0.75%. Market cap $1.1B at $1.18/ADS (down 40.7% YTD).
 
 ---
 
@@ -33,7 +33,7 @@ iQIYI offers three analytically productive conditions: (1) a large EBITDA-to-net
 
 ## 3. Data Availability & Sources
 
-**Primary:** Form 20-F FY2025, SEC EDGAR, CIK 0001722608. Audited by Deloitte. Figures in RMB thousands; USD at RMB 6.9956 = $1.00.  
+**Primary:** Form 20-F FY2025, SEC EDGAR, CIK 0001722608. Audited by Deloitte. Figures in RMB thousands; USD at RMB 6.9931 = $1.00 (Federal Reserve H.10, Dec 31, 2025).  
 URL: https://www.sec.gov/Archives/edgar/data/1722608/000119312526107079/iq-20251231.htm
 
 **Secondary:** Mergent by FTSE Russell (May 8, 2026) for beta and leverage ratios; iQIYI IR for FY2023 comparables.
@@ -44,11 +44,11 @@ URL: https://www.sec.gov/Archives/edgar/data/1722608/000119312526107079/iq-20251
 
 ## 4. Preliminary Observations
 
-1. "I expect FY2026 gross margin to compress a further 100–200 bps because content costs were stable in absolute RMB (≈RMB 21.5B both years) while revenue fell 6.6%, indicating fixed-cost leverage works against iQIYI on a shrinking topline."
+1. "I expect FY2026 gross margin to compress a further 100–200 bps because total cost of revenues fell only 1.9% (RMB21,954M → RMB21,542M) while revenue fell 6.6%, indicating cost structure does not scale down with revenue on a shrinking topline."
 
 2. "I expect membership ARPU contraction — not subscriber count decline — to be the primary revenue driver because advertising revenue falls faster than membership in downturns, and gross margin compressed more than COGS-ratio expansion alone would predict."
 
-3. "I expect the constant-currency revenue decline to be 4–5% rather than the reported 6.6% because USD appreciated 2–3% vs. CNY over FY2025."
+3. "I expect the constant-currency revenue decline to be worse than the reported 6.6% because RMB appreciated 4.19% against USD in FY2025 (per 20-F), meaning USD-translated figures overstate RMB operational performance — a headwind for ADS investors even if RMB revenue held steadier."
 
 4. "I expect the effective tax rate to revert toward 25% within two years because preferential HNTE rates (15%) for key subsidiaries expire in 2026–2028 and face regulatory renewal risk, increasing cost of capital by 150–200 bps."
 
