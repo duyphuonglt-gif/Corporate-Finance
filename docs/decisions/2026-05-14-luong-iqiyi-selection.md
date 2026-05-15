@@ -1,15 +1,16 @@
 ---
+template: memo
 title: "Stage 2 Company Selection — iQIYI Inc (IQ)"
-stage: 2
-template: stage2-company-selection-memo
-author: "Luong Duy Phuong"
-company: "iQIYI Inc"
-ticker: "IQ"
-exchange: "NASDAQ"
 to: "Adam Stauffer"
 from: "Luong Duy Phuong"
 date: "2026-05-14"
 re: "Company Selection & Preliminary Financial Hypothesis Validation"
+course: "BUS-629"
+stage: 2
+author: "Luong Duy Phuong"
+company: "iQIYI Inc"
+ticker: "IQ"
+exchange: "NASDAQ"
 ---
 
 # Stage 2 Company Selection — iQIYI Inc (IQ)
