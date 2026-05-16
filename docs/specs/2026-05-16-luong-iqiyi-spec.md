@@ -6,6 +6,7 @@ fields_required: [title, author, date, version, company, scope, model_architectu
 naming_convention: "YYYY-MM-DD-{slug}.md"
 course: BUS-629
 stage: 4
+notes: "Authored for BUS-629 Stage 4 — iQIYI Inc. (IQ, NASDAQ) FY2025 ratio analysis. Spec v2.0 incorporates 5 rounds of HIL iteration and cross-vendor testing (Claude + Gemini); all 10 identified gaps closed. D&A treatment note: INC_depreciation = 0 (iQIYI embeds D&A in COGS); Cash Coverage uses CASH_depreciation_amortization from CF Statement. Market-to-Book and MVA use mixed-unit '000 inputs per Stage 1 template convention — no FX conversion applied."
 ---
 
 # iQIYI Inc — Accounting & Performance Ratios: Technical Specification

@@ -1,13 +1,16 @@
 ---
 template: memo
+purpose: "Executive memo for Stage 2 company selection — problem framing, selection rationale, and preliminary financial hypothesis validation"
+audience: MBA academic
+fields_required: [title, to, from, date, re, executive_summary, background, method, findings, implications, limitations, references]
+naming_convention: "YYYY-MM-DD-{slug}.md"
+course: BUS-629
 title: "Stage 2 Company Selection — iQIYI Inc (IQ)"
 to: "Adam Stauffer"
 from: "Luong Duy Phuong"
 date: "2026-05-14"
 re: "Company Selection & Preliminary Financial Hypothesis Validation"
-course: "BUS-629"
 stage: 2
-author: "Luong Duy Phuong"
 company: "iQIYI Inc"
 ticker: "IQ"
 exchange: "NASDAQ"
