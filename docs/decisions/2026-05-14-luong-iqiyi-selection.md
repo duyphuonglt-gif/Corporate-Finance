@@ -2,7 +2,7 @@
 template: memo
 purpose: "Executive memo for Stage 2 company selection — problem framing, selection rationale, and preliminary financial hypothesis validation"
 audience: student
-fields_required: [title, to, from, date, re, executive_summary, background, method, findings, implications, limitations, references]
+fields_required: [title, to, from, date, re, company_overview, selection_rationale, data_availability_sources, preliminary_observations, ratio_categories_preview, data_collection_plan]
 naming_convention: "YYYY-MM-DD-{lastname}-{company-slug}-selection.md"
 course: BUS-629
 ---
