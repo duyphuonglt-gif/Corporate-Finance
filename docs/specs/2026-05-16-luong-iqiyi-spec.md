@@ -3,7 +3,7 @@ template: spec
 purpose: "Technical specification for model-driven ratio analysis — defines scope, inputs, formulas, validation, and analysis requirements precisely enough that any competent executor (human or LLM) can produce correct output"
 audience: MBA academic
 fields_required: [title, author, date, version, company, scope, model_architecture, data_inputs, named_range_conventions, derived_inputs, ratio_definitions, validation, analysis_requirements, dupont, recommendations, output_format, references]
-naming_convention: "YYYY-MM-DD-{slug}.md"
+naming_convention: "YYYY-MM-DD-{lastname}-{company-slug}-spec.md"
 course: BUS-629
 stage: 4
 ---
